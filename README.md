@@ -7,14 +7,18 @@
 <h1 align="center">✨ Joshua Brochot — Developer ✨</h1>
 
 <!-- Short bio -->
-<p align="center">
-  <span style="display:inline-block; text-align:left;">
-    👋 Junior developer passionate about new technologies.<br>
-    🔍 Curious and logical, I learn quickly when things are explained clearly.<br>
-    💻 Interested in web and mobile development.<br>
-    🏀🏐 Sports enthusiast — basketball & volleyball.
-  </span>
-</p>
+<table align="center">
+  <tr>
+    <td align="left" width="600">
+      👋 Junior developer passionate about new technologies.<br>
+      🔍 Curious and logical, I learn quickly when things are explained clearly.<br>
+      💻 Interested in web and mobile development.<br>
+      🏀🏐 Sports enthusiast — basketball & volleyball.
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
@@ -42,6 +46,6 @@
 
 ## 📫 Contact Me
 <p align="center">
-  💼 Portfolio: *(soon)*<br/>
-  📧 Email: joshua.brochot@gmail.com
+  📧 Email: joshua.brochot@gmail.com<br/>
+  💼 Portfolio: *(soon)*
 </p>
