@@ -1,10 +1,13 @@
-<!-- Banner GIF -->
+<!-- Banner GIF 
 <p align="center">
   <img src="https://i.giphy.com/dAWZiSMbMvObDWP3aA.webp" width="100%" height="20" halt="banner" />
-</p>
+</p>-->
+
+[<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:8547FE,100:04C8FF&text=Joshua%20Brochot&section=header&reversal=false&fontSize=50&animation=fadeIn&textBg=false&fontColor=FFFFFF" width="100%" />](https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text=Joshua%20Brochot&section=header&reversal=false&fontSize=0&textBg=false)
+
 
 <!-- Title -->
-<h1 align="center">✨ Joshua Brochot — Developer ✨</h1>
+<h1 align="center">✨ Hello there ! ✨</h1>
 
 <!-- Short bio -->
 <table align="center">
