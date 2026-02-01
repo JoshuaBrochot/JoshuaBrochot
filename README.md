@@ -1,22 +1,28 @@
 <!-- Banner GIF 
 <p align="center">
   <img src="https://i.giphy.com/dAWZiSMbMvObDWP3aA.webp" width="100%" height="20" halt="banner" />
-</p>-->
+</p>
+![programming-computer-frog](https://github.com/user-attachments/assets/c370fd9f-e230-49f9-b721-b7c25af2b94d)
+-->
 
-[<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:8547FE,100:04C8FF&text=Joshua%20Brochot&section=header&reversal=false&fontSize=50&animation=fadeIn&textBg=false&fontColor=FFFFFF" width="100%" />](https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text=Joshua%20Brochot&section=header&reversal=false&fontSize=0&textBg=false)
-
+![Banner](https://github.com/user-attachments/assets/e9334303-5cc3-4071-a2ab-3c9a02ded605)
 
 <!-- Title -->
 <h1 align="center">✨ Hello there ! ✨</h1>
 
+
 <!-- Short bio -->
+
 <table align="center">
   <tr>
-    <td align="left" width="600">
+    <td align="left" width="940">
       👋 Junior developer passionate about new technologies.<br>
       🔍 Curious and logical, I learn quickly when things are explained clearly.<br>
       💻 Interested in web and mobile development.<br>
       🏀🏐 Sports enthusiast — basketball & volleyball.
+    </td>
+    <td align="center" width="340">
+      <img src="https://github.com/user-attachments/assets/70baa219-1b01-461c-9185-0fc5cdc34da7" alt="gif" width="340"/>
     </td>
   </tr>
 </table>
@@ -24,6 +30,7 @@
 
 
 ---
+
 
 ## 🛠️ Skills
 
