@@ -12,7 +12,7 @@
   [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=joshua.brochot@gmail.com) &nbsp;&nbsp;
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoshuaBrochot) &nbsp;&nbsp;
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-brochot) &nbsp;&nbsp;
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-34A853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://compact.univ-lorraine.fr/user/brochot6u/sae-5)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-34A853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://compact.univ-lorraine.fr/view/view.php?t=26c942f8a2ef6ef1625e)
   
 </div>
 
