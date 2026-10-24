@@ -5,7 +5,7 @@
 ![programming-computer-frog](https://github.com/user-attachments/assets/c370fd9f-e230-49f9-b721-b7c25af2b94d)
 -->
 
-![Banner](https://github.com/user-attachments/assets/315c0960-f65e-4ce9-ad61-35846ae96425)
+![Banner](https://github.com/user-attachments/assets/7c1e7a3a-0a2a-4e28-9f31-3b73241c85a5)
 
 <div align="center">
 
@@ -84,8 +84,9 @@
 <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/></a>
 <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
 <a href="https://www.microsoft.com/windows/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows"/></a>
-</div>
+</div><img width="1800" height="386" alt="abnner" src="https://github.com/user-attachments/assets/fff69cb7-0179-4b6d-a1a8-d80fbf5da574" />
+
 <br>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=167&color=20336A &section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=167&color=1F2D54&section=footer" width="100%"/>
