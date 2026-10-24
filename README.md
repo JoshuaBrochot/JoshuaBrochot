@@ -8,11 +8,12 @@
 ![Banner](https://github.com/user-attachments/assets/7c1e7a3a-0a2a-4e28-9f31-3b73241c85a5)
 
 <div align="center">
-
+  
   [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=joshua.brochot@gmail.com) &nbsp;&nbsp;
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoshuaBrochot) &nbsp;&nbsp;
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-brochot) &nbsp;&nbsp;
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-34A853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jbrochot.fr)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-34A853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.jbrochot.fr) &nbsp;&nbsp;
+  [![Boutique](https://img.shields.io/badge/-Boutique-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://jbrochot.fr)
   
 </div>
 
