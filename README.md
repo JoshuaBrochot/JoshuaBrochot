@@ -5,7 +5,7 @@
 ![programming-computer-frog](https://github.com/user-attachments/assets/c370fd9f-e230-49f9-b721-b7c25af2b94d)
 -->
 
-![Banner](https://github.com/user-attachments/assets/e9334303-5cc3-4071-a2ab-3c9a02ded605)
+![Banner](https://github.com/user-attachments/assets/315c0960-f65e-4ce9-ad61-35846ae96425)
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 <table align="center">
   <tr>
     <td align="center" width="400">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=JoshuaBrochot&show_icons=true&theme=prussian&hide_contribs=true&hide_rank=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=JoshuaBrochot&show_icons=true&theme=nord&hide_contribs=true&hide_rank=true" alt="GitHub Stats"/>
     </td>
     <td align="left" width="600">
       👋 Junior developer exploring the areas that excite me most.<br>
@@ -88,4 +88,4 @@
 <br>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:293D4A,100:3C6369&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=167&color=20336A &section=footer" width="100%"/>
